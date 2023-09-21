@@ -2,7 +2,7 @@
 
 This Lightning Web Component (LWC) allows you to search for a Contact in your Salesforce database by name. 
 It provides a simple interface to input the Contact's name and checks if the Contact exists.
-Green color's Toast message for searched contact and Red color's Toast message for not searched contact.
+ A green-colored toast message is displayed for a found contact, while a red-colored toast message is displayed for an unfound contact.
 
 ## Features
 
